@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.my-class {
+    color: black;
+    background-color: lightcoral;
+    border: 3px #C98B8C;
+    text-align: center;
+    padding: 1.0em;
+    width: 29cm;
+    height: 1cm;
+	
+}
+.my-container {
+    background-image: url(../images/mountains.jpg);
+    border: 5px inset #000000;
+    height: 197px;
+    font-size: 12px;
+    padding-top: 47px;
+    padding-right: 47px;
+    padding-left: 47px;
+    padding-bottom: 47px;
+    text-align: center;
+    width: 838px;
+    margin-top: -3px;
+    margin-left: 97px;
+    margin-bottom: 26px;
+    font-style: italic;
+}
+#footer {
+  font-size: 1.0rem;
+}

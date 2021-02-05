@@ -1,10 +1,10 @@
 @charset "UTF-8";
 .my-class {
     color: black;
-    background-color: cornflowerblue;
+    background-color: skyblue;
     text-align: center;
     padding: 1.0em;
-    width: 40cm;
+    width: 35cm;
     height: 1cm;
 }
 .my-container {
